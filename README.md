@@ -120,5 +120,5 @@ BankSystem/
 
 ## 👨‍💻 Author
 
-**Hamza Waleed
-**Full-Stack Developer
+**Hamza Waleed**
+**Full-Stack Developer**

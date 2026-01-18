@@ -105,3 +105,12 @@ BankSystem/
 ├── Validation Utilities
 ├── Logging & Time Utilities
 └── Controllers Layer
+
+---
+
+## 🔐 Security Notes
+
+ - Passwords are never stored in plain text
+ - Hashing is applied before persistence
+ - Permission system uses bitwise flags
+ - Access checks are enforced before every sensitive operation
